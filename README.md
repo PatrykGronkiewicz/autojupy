@@ -10,3 +10,10 @@ Server:
 - `pastebinit` 
 - `curl`
 - `runipy`
+
+## Usage
+`unique_key_for_patchpub` ***Must be the same***
+### Server
+`./server.sh input_file.ipynb unique_key_for_patchpub`
+### Client
+`./client.sh output_file.ipnyb unique_key_for_patchpub`
