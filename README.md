@@ -5,6 +5,7 @@ Client:
 - `sh`
 - `curl`
 - _optional_ `notify-send` and any notification system
+
 Server:
 - `pastebinit` 
 - `curl`
